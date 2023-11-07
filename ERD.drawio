@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-11-07T11:22:10.188Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="cRoAUUy-h7_k4VWE68t-" version="22.0.8" type="github">
+<mxfile host="app.diagrams.net" modified="2023-11-07T11:22:36.380Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/118.0.0.0 Safari/537.36" etag="8f0IqHrrQXXFkSTojonB" version="22.0.8" type="github">
   <diagram id="R2lEEEUBdFMjLlhIrx00" name="Page-1">
     <mxGraphModel dx="1194" dy="1865" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0" extFonts="Permanent Marker^https://fonts.googleapis.com/css?family=Permanent+Marker">
       <root>
@@ -1022,7 +1022,7 @@
             <mxRectangle width="40" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B7AnF1n-S_sY62rqsVsY-93" value="deleted&amp;nbsp;CHAR(1) NOT NULL default 0" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="B7AnF1n-S_sY62rqsVsY-91" vertex="1">
+        <mxCell id="B7AnF1n-S_sY62rqsVsY-93" value="deleted_at DATETIME" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="B7AnF1n-S_sY62rqsVsY-91" vertex="1">
           <mxGeometry x="40" width="270" height="30" as="geometry">
             <mxRectangle width="270" height="30" as="alternateBounds" />
           </mxGeometry>
@@ -1282,7 +1282,7 @@
             <mxRectangle width="38" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="B7AnF1n-S_sY62rqsVsY-130" value="deleted_at DATETIME NOT NULL" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="B7AnF1n-S_sY62rqsVsY-128" vertex="1">
+        <mxCell id="B7AnF1n-S_sY62rqsVsY-130" value="deleted_at DATETIME" style="shape=partialRectangle;connectable=0;fillColor=none;top=0;left=0;bottom=0;right=0;align=left;spacingLeft=6;overflow=hidden;whiteSpace=wrap;html=1;" parent="B7AnF1n-S_sY62rqsVsY-128" vertex="1">
           <mxGeometry x="38" width="252" height="30" as="geometry">
             <mxRectangle width="252" height="30" as="alternateBounds" />
           </mxGeometry>
